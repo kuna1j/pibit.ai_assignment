@@ -1,0 +1,141 @@
+PROMPT #1:
+
+You are an AI assistant. I will provide you with the text of a resume. Your task is to parse the content and convert it into a JSON format with the following structure:
+
+{
+    "name": "Full Name",
+    "contact_information": {
+        "email": "Email Address",
+        "phone": "Phone Number",
+        "address": "Home Address"
+    },
+    "summary": "Professional Summary",
+    "experience": [
+        {
+            "job_title": "Job Title",
+            "company": "Company Name",
+            "location": "Location",
+            "start_date": "Start Date",
+            "end_date": "End Date",
+            "responsibilities": "Job Responsibilities"
+        }
+        // Add more jobs as needed
+    ],
+    "education": [
+        {
+            "degree": "Degree",
+            "institution": "Institution Name",
+            "location": "Location",
+            "graduation_year": "Graduation Year"
+        }
+        // Add more education details as needed
+    ],
+    "skills": ["Skill1", "Skill2", "Skill3"],
+    "certifications": ["Certification1", "Certification2"],
+    "languages": ["Language1", "Language2"]
+}
+
+Please provide the resume text below:
+
+
+PROMPT #2:
+
+Kunal Jagadale
++91 9022251073
+|
+kunalj0325@gmail.com
+|
+LinkedIn/kunal-jagadale
+|
+Github/kuna1j
+ABOUT ME
+Passionate data science enthusiast and a quick learner who thrives in fast-paced environments. I am dedicated tomastering new skills and technologies to drive impactful results.
+PROFESSIONAL EXPERIENCE
+WictroniX
+AI/ML
+Developer
+Intern
+•
+Developed scripts using
+Python
+and used a custom-trained
+YOLOv8
+model, enabling
+real-time identification of leader-follower pairs
+of detected vehicles in
+video data
+.
+June 2023 – August 2023
+•
+Engineered
+data visualization
+components and
+CSV
+file to display the identified leader-follower pairs and their relative positions over time, providing insights into traffic dynamics.
+•
+Worked in an
+agile
+environment, adapting to changing requirements and collaborating closely with mentors and peers to achieve project milestones.
+PROJECTS
+Plant
+Disease
+Classification
+•
+A maize/corn leaf disease classifier using a
+Simple Convolutional Neural Network
+.
+•
+Used various Python libraries such as
+Matplotlib, TensorFlow(Keras) & NumPy
+.
+Music
+Recommender
+based
+on
+Mood
+•
+A team project for a hackathon (stood 4th place out of 168 teams registered).
+•
+Used Spotify API and Python libraries (
+NumPy, Pandas, authorization & Tekore
+) to make the recommender.
+Meme
+Sentiment
+Analysis
+•
+This project focuses on sentiment analysis of memes, utilizing cutting-edge transformer
+model
+(BERT)
+from the
+Hugging Face
+library.
+•
+By leveraging the
+textual elements
+, I aim to
+discern and analyze the sentiment
+expressed in memes, providing valuable insights into online discourse and user emotions.
+SKILLS
+Python, SQL, DSA, Hugging Face, Seaborn, TensorFlow, Selenium, OpenCV, NLP
+Jira, Google Colab, Kaggle, Github, VS Code
+Digital Literacy, Active Listener, Agile Method, Growth Mindset, Teamwork
+﻿
+I am excited about the opportunity to explore the possibilities in this field through an internship. With a keen interest and eagerness to learn, I believe that I would be a strong candidate for this position. I have recently acquired a range of beneficial and required skills, and am eager to apply them in a real-world setting to grow and develop further.
+EDUCATION
+Manipal
+University
+Jaipur
+Computer
+Science
+2021 – present
+Jaipur,
+India
+CERTIFICATES
+Machine Learning
+Machine Learning: AI, Python & R
+Data Analysis with Python
+IBM: Data Analysis with Python
+Tools for Data Science
+IBM: Tools for Data Science
+Internship Certificate
+WictroniX

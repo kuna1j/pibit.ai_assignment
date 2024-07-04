@@ -1,0 +1,86 @@
+OUTPUT #1:
+
+Sure, please provide the text of the resume, and I'll convert it into the specified JSON format for you.
+
+
+OUTPUT #2:
+
+Here is the resume converted into the specified JSON format:
+
+```json
+{
+    "name": "Kunal Jagadale",
+    "contact_information": {
+        "email": "kunalj0325@gmail.com",
+        "phone": "+91 9022251073",
+        "address": "LinkedIn/kunal-jagadale, Github/kuna1j"
+    },
+    "summary": "Passionate data science enthusiast and a quick learner who thrives in fast-paced environments. I am dedicated to mastering new skills and technologies to drive impactful results.",
+    "experience": [
+        {
+            "job_title": "AI/ML Developer Intern",
+            "company": "WictroniX",
+            "location": "",
+            "start_date": "June 2023",
+            "end_date": "August 2023",
+            "responsibilities": [
+                "Developed scripts using Python and used a custom-trained YOLOv8 model, enabling real-time identification of leader-follower pairs of detected vehicles in video data.",
+                "Engineered data visualization components and CSV file to display the identified leader-follower pairs and their relative positions over time, providing insights into traffic dynamics.",
+                "Worked in an agile environment, adapting to changing requirements and collaborating closely with mentors and peers to achieve project milestones."
+            ]
+        }
+    ],
+    "projects": [
+        {
+            "name": "Plant Disease Classification",
+            "description": "A maize/corn leaf disease classifier using a Simple Convolutional Neural Network. Used various Python libraries such as Matplotlib, TensorFlow(Keras) & NumPy."
+        },
+        {
+            "name": "Music Recommender based on Mood",
+            "description": "A team project for a hackathon (stood 4th place out of 168 teams registered). Used Spotify API and Python libraries (NumPy, Pandas, authorization & Tekore) to make the recommender."
+        },
+        {
+            "name": "Meme Sentiment Analysis",
+            "description": "This project focuses on sentiment analysis of memes, utilizing cutting-edge transformer model (BERT) from the Hugging Face library. By leveraging the textual elements, I aim to discern and analyze the sentiment expressed in memes, providing valuable insights into online discourse and user emotions."
+        }
+    ],
+    "skills": [
+        "Python",
+        "SQL",
+        "DSA",
+        "Hugging Face",
+        "Seaborn",
+        "TensorFlow",
+        "Selenium",
+        "OpenCV",
+        "NLP",
+        "Jira",
+        "Google Colab",
+        "Kaggle",
+        "Github",
+        "VS Code",
+        "Digital Literacy",
+        "Active Listener",
+        "Agile Method",
+        "Growth Mindset",
+        "Teamwork"
+    ],
+    "education": [
+        {
+            "degree": "Computer Science",
+            "institution": "Manipal University Jaipur",
+            "location": "Jaipur, India",
+            "graduation_year": "present"
+        }
+    ],
+    "certifications": [
+        "Machine Learning",
+        "Machine Learning: AI, Python & R",
+        "Data Analysis with Python",
+        "IBM: Data Analysis with Python",
+        "Tools for Data Science",
+        "IBM: Tools for Data Science",
+        "Internship Certificate - WictroniX"
+    ]
+}
+```
