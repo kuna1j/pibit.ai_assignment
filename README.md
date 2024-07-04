@@ -1,0 +1,1 @@
+This is the short assignment you asked for. I have created two text files which contains the output(Content- Output by GPT-4o model.txt) and the prompt I gave as an input(Prompt.txt) to GPT-4o model. I gave in two prompts PROMPT #1 and PROMPT #2 and got two outputs OUTPUT #1 and OUTPUT #2 respectively. 
